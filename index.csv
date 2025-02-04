@@ -1,5 +1,5 @@
 source_path,start_frame,end_frame,new_name
-./pose_data/KIT/3/kick_high_left02_poses.npy,0,117,000000.npy
+./pose_data/KIT/3/kick_high_right02_poses.npy,0,117,000000.npy
 ./pose_data/humanact12/humanact12/P11G01R02F1812T1847A0402.npy,0,-1,000001.npy
 ./pose_data/KIT/3/jump_left02_poses.npy,0,83,000002.npy
 ./pose_data/KIT/1747/displace_from_left_to_right_06_poses.npy,0,91,000003.npy
